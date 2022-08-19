@@ -2,7 +2,10 @@
 Module 1 challenge
 
 
-Horiseon accessibility project 
+Horiseon accessibility project
+
+
+
 this project is a website that is made to be accessible and search engine friendly.
 the way to achieve that is creating a code base that includes a clean layout and alternative
 text that allows images to be desribed by narrating programs. 
