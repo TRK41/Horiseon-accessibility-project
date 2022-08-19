@@ -7,9 +7,13 @@ Horiseon accessibility project
 
 
 this project is a website that is made to be accessible and search engine friendly.
+
 the way to achieve that is creating a code base that includes a clean layout and alternative
-text that allows images to be desribed by narrating programs. 
+text that allows images to be desribed by narrating programs.
+
 images can be searched through search engines based on the given description.
+
+
 
 below is a screenshot and a link to the webpage
 
